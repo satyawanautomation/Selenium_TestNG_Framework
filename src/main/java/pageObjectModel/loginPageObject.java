@@ -37,5 +37,8 @@ public class loginPageObject {
 	public WebElement errorMsg() {
 		return driver.findElement(ERROR_MSG);
 	}
+	
+	//GIT demo purpose modification
+	
 
 }
